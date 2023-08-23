@@ -106,7 +106,7 @@ dmypy.json
 cython_debug/
 
 # JetBrains specific (optional)
-# .idea/xxx.py
+.idea/
 
 # test file
 prometheus/
