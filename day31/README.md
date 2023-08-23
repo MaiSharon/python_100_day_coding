@@ -1,11 +1,11 @@
-# flash-card
----
+# Project Code
 
-# code
-[View the code on GitHub](../flash-card-project-start/main_mai_class_build.py)
 ---
+## [flash-card](../flash-card-project-start/main_mai_class_build.py)
 
-# show-reel
+
+
+# ShowReel
+
 ---
-
-![Your GIF description here](day31.gif)
+![Your GIF description here](day31.gif/)
