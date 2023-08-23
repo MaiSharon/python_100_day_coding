@@ -6,4 +6,4 @@
 | 28      |                                                                   |                            |                        |
 | 29      |                                                                   |                            |                        |
 | 30      |                                                                   |                            |                        |
-| 31      | [flash-card](../flash-card-project-start/main_mai_class_build.py) | [SHOW](../day31/README.md) | Tk()、Pandas()         |
+| 31      | [flash-card](https://github.com/MaiSharon/python_100_day_coding/blob/main/day31/flash-card-project-start/main_mai_class_build.py) | [SHOW](https://github.com/MaiSharon/python_100_day_coding/blob/main/day31/README.md) | Tk()、Pandas()         |
