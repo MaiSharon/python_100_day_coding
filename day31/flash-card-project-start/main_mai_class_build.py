@@ -13,9 +13,6 @@ class FlashyApp:
             self.data = pandas.read_csv("data/unknown_word.csv")
         except FileNotFoundError:
             self.data = pandas.read_csv("data/french_words.csv")
-        except pandas.errors.ParserError:
-            print("CSV文件格式錯誤")
-            return
         finally:
             self.flashcards = self.data.to_dict(orient="records")
 
@@ -77,4 +74,4 @@ class FlashyApp:
 
 
 if __name__ == "__main__":
-    app = FlashyApp()
+    FlashyApp()
