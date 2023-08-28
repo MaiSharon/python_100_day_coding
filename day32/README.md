@@ -1,7 +1,7 @@
 # Project Code
 
 
-### [send-HBD-email](https://github.com/MaiSharon/python_100_day_coding/blob/main/day31/flash-card-project-start/main_mai_class_build.py)
+### [send-HBD-email](https://github.com/MaiSharon/python_100_day_coding/blob/main/day32/b_practice/main.py)
 
 
 
